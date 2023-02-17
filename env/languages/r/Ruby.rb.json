@@ -1,0 +1,6 @@
+{
+  "executor": "ruby",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/r/Ruby.rb",
+  "sourceDir": "r/Ruby",
+  "sourceFile": "hello.rb"
+}

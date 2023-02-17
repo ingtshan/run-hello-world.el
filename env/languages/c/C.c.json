@@ -1,0 +1,8 @@
+{
+  "executor": "gcc",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/c/C.c",
+  "sourceDir": "c/C",
+  "sourceFile": "hello.c",
+  "compiledFile": "hello_c",
+  "compileCommandSeed": "gcc %s -o %s"
+}

@@ -1,0 +1,6 @@
+{
+  "executor": "node",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/j/JavaScript.js",
+  "sourceDir": "j/JavaScript",
+  "sourceFile": "hello.js"
+}

@@ -1,0 +1,8 @@
+{
+  "executor": "emacs --batch --eval",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/e/EmacsLisp.el",
+  "sourceDir": "e/EmacsLisp",
+  "sourceFile": "\"$(< hello.el)\""
+}
+//command
+//emacs -Q --batch --eval "$(< hello.el)"

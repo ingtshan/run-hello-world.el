@@ -1,0 +1,8 @@
+{
+  "executor": "g++",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/c/C%2B%2B.cpp",
+  "sourceDir": "c/C++",
+  "sourceFile": "hello.cpp",
+  "compiledFile": "hello_cpp",
+  "compileCommandSeed": "g++ %s -o %s"
+}

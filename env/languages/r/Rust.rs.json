@@ -1,0 +1,8 @@
+{
+  "executor": "rustc",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/r/Rust.rs",
+  "sourceDir": "r/Rust",
+  "sourceFile": "hello.rs",
+  "compiledFile": "hello_rs",
+  "compileCommandSeed": "rustc %s -o %s"
+}

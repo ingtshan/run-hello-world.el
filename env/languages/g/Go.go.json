@@ -1,0 +1,15 @@
+{
+  "executor": "go run",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/g/Go.go",
+  "sourceDir": "g/Go",
+  "sourceFile": "hello.go"
+}
+// or
+// {
+//   "executor": "go",
+//   "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/g/Go.go",
+//   "sourceDir": "g/Go",
+//   "sourceFile": "hello.go"
+//   "compiledFile": "hello",
+//   "compileCommandSeed": "go build %s"
+// }

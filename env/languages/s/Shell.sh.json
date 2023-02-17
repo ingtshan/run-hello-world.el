@@ -1,0 +1,6 @@
+{
+  "executor": "sh",
+  "sourceUrl": "https://raw.githubusercontent.com/ingtshan/hello-world/main/s/Shell.sh",
+  "sourceDir": "s/Shell",
+  "sourceFile": "hello.sh"
+}
